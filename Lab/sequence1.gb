@@ -1,0 +1,278 @@
+LOCUS       NM_001287523            2636 bp    mRNA    linear   ROD 26-FEB-2018
+DEFINITION  Mus musculus CCAAT/enhancer binding protein (C/EBP), alpha (Cebpa),
+            transcript variant 1, mRNA.
+ACCESSION   NM_001287523
+VERSION     NM_001287523.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2636)
+  AUTHORS   Mackert JR, Qu P, Min Y, Johnson PF, Yang L and Lin PC.
+  TITLE     Dual negative roles of C/EBPalpha in the expansion and pro-tumor
+            functions of MDSCs
+  JOURNAL   Sci Rep 7 (1), 14048 (2017)
+   PUBMED   29070836
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2636)
+  AUTHORS   Wurm AA, Zjablovskaja P, Kardosova M, Gerloff D, Brauer-Hartmann D,
+            Katzerke C, Hartmann JU, Benoukraf T, Fricke S, Hilger N, Muller
+            AM, Bill M, Schwind S, Tenen DG, Niederwieser D, Alberich-Jorda M
+            and Behre G.
+  TITLE     Disruption of the C/EBPalpha-miR-182 balance impairs granulocytic
+            differentiation
+  JOURNAL   Nat Commun 8 (1), 46 (2017)
+   PUBMED   28663557
+  REMARK    GeneRIF: Data demonstrate the importance of a controlled balance
+            between C/EBPalpha and miR-182 for the maintenance of healthy
+            granulopoiesis.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2636)
+  AUTHORS   Lu J, Xu Q, Ji M, Guo X, Xu X, Fargo DC and Li X.
+  TITLE     The phosphorylation status of T522 modulates tissue-specific
+            functions of SIRT1 in energy metabolism in mice
+  JOURNAL   EMBO Rep. 18 (5), 841-857 (2017)
+   PUBMED   28364022
+REFERENCE   4  (bases 1 to 2636)
+  AUTHORS   Muller C, Bremer A, Schreiber S, Eichwald S and Calkhoven CF.
+  TITLE     Nucleolar retention of a translational C/EBPalpha isoform
+            stimulates rDNA transcription and cell size
+  JOURNAL   EMBO J. 29 (5), 897-909 (2010)
+   PUBMED   20075868
+REFERENCE   5  (bases 1 to 2636)
+  AUTHORS   Calkhoven CF, Muller C and Leutz A.
+  TITLE     Translational control of C/EBPalpha and C/EBPbeta isoform
+            expression
+  JOURNAL   Genes Dev. 14 (15), 1920-1932 (2000)
+   PUBMED   10921906
+REFERENCE   6  (bases 1 to 2636)
+  AUTHORS   Hsieh CC, Xiong W, Xie Q, Rabek JP, Scott SG, An MR, Reisner PD,
+            Kuninger DT and Papaconstantinou J.
+  TITLE     Effects of age on the posttranscriptional regulation of
+            CCAAT/enhancer binding protein alpha and CCAAT/enhancer binding
+            protein beta isoform synthesis in control and LPS-treated livers
+  JOURNAL   Mol. Biol. Cell 9 (6), 1479-1494 (1998)
+   PUBMED   9614188
+REFERENCE   7  (bases 1 to 2636)
+  AUTHORS   Lincoln AJ, Monczak Y, Williams SC and Johnson PF.
+  TITLE     Inhibition of CCAAT/enhancer-binding protein alpha and beta
+            translation by upstream open reading frames
+  JOURNAL   J. Biol. Chem. 273 (16), 9552-9560 (1998)
+   PUBMED   9545285
+REFERENCE   8  (bases 1 to 2636)
+  AUTHORS   Stephens JM and Pekala PH.
+  TITLE     Transcriptional repression of the C/EBP-alpha and GLUT4 genes in
+            3T3-L1 adipocytes by tumor necrosis factor-alpha. Regulations is
+            coordinate and independent of protein synthesis
+  JOURNAL   J. Biol. Chem. 267 (19), 13580-13584 (1992)
+   PUBMED   1618860
+REFERENCE   9  (bases 1 to 2636)
+  AUTHORS   Alam T, An MR and Papaconstantinou J.
+  TITLE     Differential expression of three C/EBP isoforms in multiple tissues
+            during the acute phase response
+  JOURNAL   J. Biol. Chem. 267 (8), 5021-5024 (1992)
+   PUBMED   1371993
+REFERENCE   10 (bases 1 to 2636)
+  AUTHORS   Cao Z, Umek RM and McKnight SL.
+  TITLE     Regulated expression of three C/EBP isoforms during adipose
+            conversion of 3T3-L1 cells
+  JOURNAL   Genes Dev. 5 (9), 1538-1552 (1991)
+   PUBMED   1840554
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC150683.3.
+            
+            Summary: This intronless gene encodes a transcription factor that
+            contains a basic leucine zipper (bZIP) domain and recognizes the
+            CCAAT motif in the promoters of target genes. The encoded protein
+            functions in homodimers and also heterodimers with
+            CCAAT/enhancer-binding proteins beta and gamma. Activity of this
+            protein can modulate the expression of genes involved in cell cycle
+            regulation as well as in body weight homeostasis. The use of
+            alternative in-frame non-AUG (CUG) and AUG start codons results in
+            several protein isoforms with different lengths. Differential
+            translation initiation is mediated by an out-of-frame, upstream
+            open reading frame which is located between the CUG and the first
+            AUG start codons. [provided by RefSeq, Sep 2014].
+            
+            Transcript Variant: This variant (1) can initiate translation from
+            an upstream non-AUG (CUG) site, and also from four downstream,
+            in-frame AUG sites. The isoform (e, also known as 20-kDa)
+            represented in this RefSeq results from translation initiation at
+            the fourth AUG start codon. Isoform e has a shorter N-terminus,
+            compared to isoform c.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript is intronless :: BC011118.1 [ECO:0000345]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: experimental evidence
+                                                (PMID:9614188)
+            regulatory uORF                  :: PMID: 10921906
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2636              AC150683.3         50041-52676
+FEATURES             Location/Qualifiers
+     source          1..2636
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="7"
+                     /map="7 21.02 cM"
+     gene            1..2636
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="CCAAT/enhancer binding protein (C/EBP), alpha"
+                     /db_xref="GeneID:12606"
+                     /db_xref="MGI:MGI:99480"
+     exon            1..2636
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    16..18
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="Region: alternative non-AUG (CUG) start codon;
+                     isoform c"
+     regulatory      102..119
+                     /regulatory_class="other"
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /experiment="DESCRIPTION:regulatory uORF[PMID:10921906]"
+                     /note="regulatory uORF; this uORF is predicted to encode a
+                     5 aa peptide (PMID:10921906)"
+     misc_feature    127..129
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="Region: alternative AUG start codon; isoform a"
+     STS             137..776
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="Cebpa"
+                     /db_xref="UniSTS:527283"
+     misc_feature    169..171
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="Region: alternative AUG start codon; isoform d"
+     misc_feature    478..480
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="Region: alternative AUG start codon; isoform b"
+     STS             590..1089
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /db_xref="UniSTS:548130"
+     CDS             766..1206
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /note="isoform e is encoded by transcript variant 1;
+                     CCAAT/enhancer-binding protein alpha; C/EBP alpha"
+                     /codon_start=1
+                     /product="CCAAT/enhancer-binding protein alpha isoform e"
+                     /protein_id="NP_001274452.1"
+                     /db_xref="GeneID:12606"
+                     /db_xref="MGI:MGI:99480"
+                     /translation="MHLQPGHPTPPPTPVPSPHAAPALGAAGLPGPGSALKGLAGAHP
+                     DLRTGGGGGGSGAGAGKAKKSVDKNSNEYRVRRERNNIAVRKSRDKAKQRNVETQQKV
+                     LELTSDNDRLRKRVEQLSRELDTLRGIFRQLPESSLVKAMGNCA"
+     STS             946..1134
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="Cebpa"
+                     /db_xref="UniSTS:516500"
+     STS             952..1050
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="Cebpa"
+                     /db_xref="UniSTS:465371"
+     STS             1065..1146
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="PMC94247P1"
+                     /db_xref="UniSTS:273622"
+     STS             1384..1542
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="M62362"
+                     /db_xref="UniSTS:124964"
+     STS             1888..2039
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="BE096629"
+                     /db_xref="UniSTS:244045"
+     STS             1972..2175
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /db_xref="UniSTS:235647"
+     STS             2220..2360
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="M62362"
+                     /db_xref="UniSTS:179555"
+     STS             2378..2553
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+                     /standard_name="RH141409"
+                     /db_xref="UniSTS:223404"
+     polyA_site      2636
+                     /gene="Cebpa"
+                     /gene_synonym="C/ebpalpha; CBF-A; Cebp"
+ORIGIN      
+        1 attcgcgacc cgaagctgcg cgggcgcgag ccagttgggg cactgggtgg gcggcggcga
+       61 cagcggcgcc acgcgcaggc tggaggccgc cgaggctcgc catgccggga gaactctaac
+      121 tcccccatgg agtcggccga cttctacgag gtggagccgc ggcccccgat gagcagtcac
+      181 ctccagagcc ccccgcacgc gcccagcaac gccgcctttg gctttccccg gggcgcgggc
+      241 cccgcgccgc ccccagcccc acctgccgcc ccggagccgc tgggcggcat ctgcgagcac
+      301 gagacgtcta tagacatcag cgcctacatc gacccggccg ccttcaacga cgagttcctg
+      361 gccgacctct tccagcacag ccgacagcag gagaaggcca aggcggcggc gggccccgcg
+      421 ggtggcggcg gtgactttga ctacccggga gccccggcgg gccccggcgg cgcggtcatg
+      481 tccgcggggg cgcacgggcc ccctcccggc tacggctgtg cggcggccgg ctacctggac
+      541 ggcaggctgg agcccctgta cgagcgcgtc ggggcgcccg cgctacggcc gctggtgatc
+      601 aaacaagagc cccgcgagga ggacgaggcg aagcagctgg cgctggccgg cctcttcccc
+      661 taccagccac cgccgccacc gccaccgccg cacccgcacg cgtctcccgc gcacctggcc
+      721 gccccccact tgcagttcca gatcgcgcac tgcggccaga ccaccatgca cctgcagcct
+      781 ggccacccca caccgccgcc cacgcccgtg cccagcccgc acgctgcgcc cgccttgggt
+      841 gctgcgggcc tgcctggccc cgggagcgcg ctcaagggct tggccggtgc gcaccccgac
+      901 ctccgcacgg gaggcggcgg cggtggcagc ggtgccggtg cgggcaaagc caagaagtcg
+      961 gtggacaaga acagcaacga gtaccgggta cggcgggaac gcaacaacat cgcggtgcgc
+     1021 aagagccgag ataaagccaa acaacgcaac gtggagacgc aacagaaggt gctggagttg
+     1081 accagtgaca atgaccgcct gcgcaagcgg gtggaacagc tgagccgtga actggacacg
+     1141 ctgcggggca tcttccgcca gctgcctgag agctccttgg tcaaggccat gggcaactgc
+     1201 gcgtgaggcg cgcggctgcg ggaccgcctt gggccggccc cctggctgga gacccagagg
+     1261 atggtttcgg gtcgctggat ctctaggctg cccgggccgc gcaagccagg actaggagat
+     1321 tccggtgtgg cctgaaagcc tggcctgctc cgcgtgtccc ctcccttcct ctgagccgga
+     1381 ctcggtgcgt ctaagatgag ggagtcaggc cgtggtggtt tctccttgag accgagagac
+     1441 tttccgcgga gctgagctgg gggcccggca gtactagtat taaggaagta accttgtgcc
+     1501 ttggatactc aaaactcgct ccttttccta ccgagtaggg ggagcaaaaa tgtgccttga
+     1561 tattttattt ggaggattcc tgcttcctct cgggcctcag ctggccccgt gagaaaaatg
+     1621 aagggtgcag gcccagggca ggaggaagat acaggaagct gagatcccgg cagtgccctg
+     1681 agctgcccct cagtccctgt ctttagaggg gagggactta ggtgttgggg atttgagtct
+     1741 gtgtcctcac ccccagctac agggaggtgg agggctccta atcccttgct ttttgcacct
+     1801 ccacctacat cccccccccc ccactcagct tacaacaggc caggtttcct gggtgagttc
+     1861 atggagaatg ggggcaccac ccccagtcag accagaaagc tgagttgtga gttagccatg
+     1921 tggtaggaga cagagaccta ggtttctggg ctttgtgggg tgggggatag gaggacacgg
+     1981 ggaccattag ccttgtgtgt actgtatgtc gccagccgct gttgctgaag gaacttgaag
+     2041 cacaatcgat ccatcccaga gggactggag ttatgacaag cttcccaaat attttgcttt
+     2101 atcatccgat atcaacactt gtatctggtc tctgtgtccc agcggtgcct tgtgcaatgg
+     2161 cagtgtgcac gtctatgcta aaccaccatt ttatttggtc ttttgttttg ttttggtttt
+     2221 gctctgattc ttgccaaact gagactcttc actaacggct gggggaagga gctgagtgag
+     2281 gctctcattc tttttggttt agggatgttt gggttttttc gtctgcctcc cagaggacca
+     2341 atgaaatgaa gtgggcttcc ccctctcccc tagttgtcca agggtgtatg tagtagtggg
+     2401 tcttagcttc ctccggctaa gacttaggct tccccaccca cccaacccca tccccaacgg
+     2461 ccctggctct gggtctggaa agaaggccac ctccagccag ttcatacaca cacccctgtg
+     2521 gctgggagca gggctggacc gcttccttct cttctttttt ttgggggggg gggacacaaa
+     2581 gtttcatgct agatgtcgta tgtattatat ctataatata aacatatcaa actcaa
+//
+
