@@ -1,0 +1,23 @@
+File   : Image of siRNA and primer location
+Aurthor: H.F.
+Update : 2018/03/07
+
+
+
+
+
+     	 #1 Forward Primer 	        #2 Forward Primer 			
+    	GAGGAGGACGAGGCGAAGCA	      CAAGAACAGCAACGAGTACCG   
+    	616------------->635  	      966--------------->986       
+	        || 	   			||                  	 		 
+	       \||/			       \||/			
+  5'	        \/				\/		 	 		                         3'
+|<-UTR->|<---------------------CDS------------------------------------------------------>|<-----3' UTR------->|----------|
+|<------------------------------------------------Exon 1----------------------------------------------------->|<-Poly A->|
+1       126                                                 	                      1206                    2626     2651
+        /|\			  /\			/|\                  /\
+       / | \	 		 /||\		       / | \	            /||\
+  5'     |	  3'		  ||	            5'	 |      3'           ||
+ GCCGCUGGUGAUCAAACAA    CGATCTGGAACTGCAAGTGGG 	CCGAGARAAAGCCAACAA   GTCACGGTCAACTCCAGCAC
+ 588------------>606 	725<--------------745	1026--------->1044   1069<-----------1089
+      siRNA 1     	 #1 Reverse Primer	     siRNA 2	       #2 Reverse Primer
