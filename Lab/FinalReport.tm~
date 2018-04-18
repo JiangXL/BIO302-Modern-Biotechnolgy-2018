@@ -31,11 +31,9 @@
 
   <\subsection>
     Abstracte qPCR
-
-    \;
   </subsection>
 
-  <subsection|siRNA Transfection>
+  \;
 
   \;
 
@@ -43,6 +41,8 @@
 
   To determine if an assay is optimal, we will use stardard curve to test
   primers for real-time PCR.Calculate the Ct and E
+
+  <subsection|siRNA Transfection>
 
   <subsection|Isolation RNA & reverse RNA >
 
@@ -55,6 +55,8 @@
   <section|Reference>
 
   <section|Contribution>
+
+  \;
 
   <section|Figure>
 
