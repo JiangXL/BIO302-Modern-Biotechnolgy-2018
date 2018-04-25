@@ -3,7 +3,8 @@
 <style|article>
 
 <\body>
-  <doc-data|<doc-title|Track Tool Cell fata>|<doc-author|<\author-data|<author-name|yuejian<space|1em>mo>|<\author-affiliation>
+  <doc-data|<doc-title|Light the Light of
+  Life>|<doc-author|<\author-data|<author-name|yuejian<space|1em>mo>|<\author-affiliation>
     <date|>
   </author-affiliation>>
     \;
@@ -24,4 +25,22 @@
   From 2007\U\<gtr\> 2017
 
   \;
+
+  Neuron science
+
+  <section*|Introduction>
+
+  <section*|Reference>
+
+  https://www.quantamagazine.org/light-triggered-genes-reveal-the-hidden-workings-of-memory-20171214/
 </body>
+
+<initial|<\collection>
+</collection>>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|?|?>>
+    <associate|auto-2|<tuple|?|?>>
+  </collection>
+</references>

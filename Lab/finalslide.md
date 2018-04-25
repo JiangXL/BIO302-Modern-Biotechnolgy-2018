@@ -41,6 +41,14 @@ target sequence** that is present in a sample.
 
 
 # Result & Conclusion
+![The expression of GADPH](7/GADPH.png)
+
+# Result & Conclusion
+![The expression of Cebp-alpha with siRNA 1](7/cebp-alpha.png)
+
+
+# Result & Conclusion
+![The expression of Cebp-alpha with siRNA 2](7/cebp-alpha-t2.png)
 
 
 
