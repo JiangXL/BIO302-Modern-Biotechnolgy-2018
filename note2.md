@@ -13,7 +13,7 @@ easy, noninvasive
 transparent embryo
 
 
-<F6>6cell are notnaccessible to direct observation
+cell are notnaccessible to direct observation
 
 
 Stochastically
