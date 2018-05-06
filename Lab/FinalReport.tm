@@ -1,4 +1,4 @@
-<TeXmacs|1.99.6>
+<TeXmacs|1.99.5>
 
 <style|<tuple|article|british>>
 
@@ -213,14 +213,14 @@
   RT Reagent Kit(TAKARA Cat # RR036A) to reverse RNA.
 
   Finally we use qPCR to measure the expression of Cebp-\<alpha\>. Firstly,
-  we prepare three PCR mixture as following table.(Table 1)
+  we prepare three PCR mixture as following table.(Table 1)\ 
 
   \;
 
   <small-table|<tabular|<tformat|<cwith|2|2|1|1|cell-hyphen|t>|<cwith|1|1|2|2|cell-hyphen|t>|<cwith|1|1|3|3|cell-hyphen|t>|<twith|table-halign|c>|<table|<row|<cell|Reagent>|<\cell>
     Volume
 
-    (3.5 tubles)
+    (<math|\<mu\>>l)(3.5 tubes)
   </cell>|<\cell>
     18srRNA premix
 
@@ -410,18 +410,23 @@
         The experssion of GADPH
 
         \;
-      </surround>|<pageref|auto-12>>
+      </surround>|<pageref|auto-13>>
 
       <tuple|normal|<surround|<hidden|<tuple>>||The experssion of Cebp
-      \<alpha\> with siRNA>|<pageref|auto-13>>
+      \<alpha\> with siRNA>|<pageref|auto-14>>
 
       <tuple|normal|<surround|<hidden|<tuple>>||The expressino of Cebp
-      \<alpha\> with siRNA 2>|<pageref|auto-14>>
+      \<alpha\> with siRNA 2>|<pageref|auto-15>>
     </associate>
     <\associate|table>
-      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-5>>
+      <tuple|normal|<surround|<hidden|<tuple>>||The PCR
+      mixture.>|<pageref|auto-5>>
 
-      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-6>>
+      <tuple|normal|<surround|<hidden|<tuple>>||The schematic show the
+      postion of sample.>|<pageref|auto-6>>
+
+      <tuple|normal|<surround|<hidden|<tuple>>||The RNA concentration of 4
+      sample after isolation.>|<pageref|auto-12>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|ABSTRACT>
@@ -442,19 +447,19 @@
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|DISCUSSION>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-15><vspace|0.5fn>
+      <no-break><pageref|auto-16><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|CONCLUSION>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-16><vspace|0.5fn>
+      <no-break><pageref|auto-17><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|ACKNOWLEDGEMENTS>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-17><vspace|0.5fn>
+      <no-break><pageref|auto-18><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|REFERENCES>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-18><vspace|0.5fn>
+      <no-break><pageref|auto-19><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
