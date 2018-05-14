@@ -3,24 +3,35 @@
 <style|<tuple|article|british>>
 
 <\body>
-  <doc-data|<doc-title|Use siRNA to knowdown Cebp\<alpha\>
-  3T3-L1>|<doc-author|<\author-data|<author-name|yuejian
-  mo>|<\author-affiliation>
-    <date|>
-  </author-affiliation>>
+  <doc-data|<doc-title|Use siRNA to knowdown Cebp\<alpha\> in
+  3T3-L1>|<doc-date|<date>>|<doc-author|<\author-data|<author-name|yuejian
+  mo>>
+    \;
+  <|author-data>
     \;
 
     \;
   </author-data>>>
 
-  <section|Introduction>
+  <section*|Introduction>
 
-  We choose two target gene from paper.
+  siRNA a useful technique to control the expression of target gene. While
+  qPCR is a simple and elegant method to measure the expression of target
+  gene. So, we will choose a suitable target gene from published paper, then
+  train the siRNA and qPCR technique.
 
-  Tranditinal PCR is an in vitro techniques which allows the amplification of
-  a specific DNA region that lies between two regions of known DNA sequence.
-  Here are three phases of PCR, including exponential phase, linear phase and
-  plateau phase. Nowadays, we\ 
+  We choose target gene Cebp-alpha from paper. This intronless gene encodes a
+  transcription factor that contains a basic leucine zipper (bZIP) domain and
+  recognizes the CCAAT motif in the promoters of target genes. The encoded
+  protien functions in homodimers and also heterodimers with
+  CCAAT/enhancer-binding proteins \<beta\> and \<gamma\>. Activity of this
+  protiein can modulate the expression of genes involved in cell cycle
+  regulation as well as body weight homeostassis.
+
+  Tranditinal PCR is an in vitro techniqdues which allows the amplification
+  of a specific DNA region that lies between two regions of known DNA
+  sequence. Here are three phases of PCR, including exponential phase, linear
+  phase and plateau phase. Nowadays, we\ 
 
   \;
 
@@ -40,11 +51,11 @@
 
   Two siRNA , one qPCR primer, one positive control (GADPH)
 
-  <section|Method>
+  <section*|Method>
 
   <subsection|Choose a target gene>
 
-  \;
+  Search from the NCBI, check the gene expression & (unipor and qPCR data)
 
   <subsection|Design siRNA and qPCR primer>
 
@@ -132,22 +143,22 @@
 
   \;
 
-  <section|Discussion>
+  <section*|Discussion>
 
   E%\<gtr\>100% \<#6709\>\<#975E\>\<#7279\>\<#5F02\>\<#6027\>\<#6269\>\<#589E\>,
   E%\<less\>100% \<#6548\>\<#7387\>
 
-  <section|Reference>
+  <section*|Reference>
 
   Pfaffl, M. W. (2001). A new mathematical model for relative quantification
   in real-time RT\UPCR.<nbsp><with|font-shape|italic|Nucleic Acids
   Research>,<nbsp><with|font-shape|italic|29>(9), e45.
 
-  <section|Contribution>
+  <section*|Contribution>
 
   Xu wenxin and I finish this work together.
 
-  <section|Figures>
+  <section*|Figures>
 
   \<#56FE\>\<#8981\>\<#6709\>\<#56FE\>\<#6CE8\>\<#FF0C\>p value
 
@@ -208,31 +219,31 @@
 
 <\initial>
   <\collection>
-    <associate|page-medium|papyrus>
+    <associate|page-medium|paper>
   </collection>
 </initial>
 
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|1|1>>
+    <associate|auto-1|<tuple|?|1>>
     <associate|auto-10|<tuple|2|2>>
-    <associate|auto-11|<tuple|3|2>>
-    <associate|auto-12|<tuple|4|2>>
-    <associate|auto-13|<tuple|5|2>>
-    <associate|auto-14|<tuple|6|2>>
-    <associate|auto-15|<tuple|7|2>>
-    <associate|auto-16|<tuple|1|3>>
-    <associate|auto-17|<tuple|2|?>>
-    <associate|auto-18|<tuple|3|?>>
-    <associate|auto-19|<tuple|4|?>>
-    <associate|auto-2|<tuple|2|1>>
-    <associate|auto-3|<tuple|2.1|1>>
-    <associate|auto-4|<tuple|2.2|1>>
-    <associate|auto-5|<tuple|2.3|1>>
-    <associate|auto-6|<tuple|2.4|1>>
-    <associate|auto-7|<tuple|2.5|1>>
-    <associate|auto-8|<tuple|2.6|1>>
-    <associate|auto-9|<tuple|1|1>>
+    <associate|auto-11|<tuple|1|2>>
+    <associate|auto-12|<tuple|1|3>>
+    <associate|auto-13|<tuple|1|3>>
+    <associate|auto-14|<tuple|1|3>>
+    <associate|auto-15|<tuple|1|3>>
+    <associate|auto-16|<tuple|1|5>>
+    <associate|auto-17|<tuple|2|5>>
+    <associate|auto-18|<tuple|3|6>>
+    <associate|auto-19|<tuple|4|7>>
+    <associate|auto-2|<tuple|?|1>>
+    <associate|auto-3|<tuple|1|1>>
+    <associate|auto-4|<tuple|2|1>>
+    <associate|auto-5|<tuple|3|1>>
+    <associate|auto-6|<tuple|4|2>>
+    <associate|auto-7|<tuple|5|2>>
+    <associate|auto-8|<tuple|6|2>>
+    <associate|auto-9|<tuple|1|2>>
   </collection>
 </references>
 
@@ -241,12 +252,21 @@
     <\associate|figure>
       <tuple|normal|<surround|<hidden|<tuple>>||The Gel Graph of 4 isolativte
       RNAs. (From left to right: Postive Control, Negative control, siRNA 1,
-      siRNA 2>|<pageref|auto-17>>
+      siRNA 2>|<pageref|auto-16>>
+
+      <tuple|normal|<surround|<hidden|<tuple>>||The experssion of
+      GADPH>|<pageref|auto-17>>
+
+      <tuple|normal|<surround|<hidden|<tuple>>||The experssion of Cebp
+      \<alpha\> with siRNA>|<pageref|auto-18>>
+
+      <tuple|normal|<surround|<hidden|<tuple>>||The expressino of Cebp
+      \<alpha\> with siRNA 2>|<pageref|auto-19>>
     </associate>
     <\associate|table>
-      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-10>>
+      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-9>>
 
-      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-11>>
+      <tuple|normal|<surround|<hidden|<tuple>>||>|<pageref|auto-10>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|1<space|2spc>Introduction>
@@ -265,45 +285,41 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-4>>
 
-      <with|par-left|<quote|1tab>|2.3<space|2spc>Abstracte qPCR
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|2.3<space|2spc>Test qPCR Primers with
+      Real-time PCR <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-5>>
 
-      <with|par-left|<quote|1tab>|2.4<space|2spc>Test Primers for Real-time
-      PCR <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|2.4<space|2spc>Transfecte siRNA to 3T3-L1
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-6>>
 
-      <with|par-left|<quote|1tab>|2.5<space|2spc>siRNA Transfection
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|2.5<space|2spc>Isolation RNA & reverse RNA
+      \ <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-7>>
 
-      <with|par-left|<quote|1tab>|2.6<space|2spc>Isolation RNA & reverse RNA
-      \ <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <with|par-left|<quote|1tab>|2.6<space|2spc>Using qPCR to measure the
+      expression of gene <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-8>>
-
-      <with|par-left|<quote|1tab>|2.7<space|2spc>qPCR
-      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-9>>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|3<space|2spc>Results>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-12><vspace|0.5fn>
+      <no-break><pageref|auto-11><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|4<space|2spc>Discussion>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-13><vspace|0.5fn>
+      <no-break><pageref|auto-12><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|5<space|2spc>Reference>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-14><vspace|0.5fn>
+      <no-break><pageref|auto-13><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|6<space|2spc>Contribution>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-15><vspace|0.5fn>
+      <no-break><pageref|auto-14><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|7<space|2spc>Figures>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-16><vspace|0.5fn>
+      <no-break><pageref|auto-15><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
