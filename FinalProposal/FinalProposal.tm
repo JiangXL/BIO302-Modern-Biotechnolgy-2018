@@ -5,7 +5,7 @@
 <\body>
   \;
 
-  <doc-data|<doc-title|Decode the dynamics of <with|font-shape|italic|C.
+  <doc-data|<doc-title|Visuable the dynamics of <with|font-shape|italic|C.
   elegans> AWA neuron using Opogenetics>|<doc-author|<author-data|<author-name|>>>|<doc-author|<author-data|<author-name|YueJian
   Mo>|<\author-affiliation>
     2015 SUSTech, Department of Biology, Wei Huang
@@ -13,8 +13,6 @@
 
   Using pictures or cartoons to illustrate your point. A picture is better
   than a thousand words.
-
-  Single neuron memory?
 
   (<with|font-shape|italic|What if we can see mulit-neuron at the same time
   by move the microscope? >)(<with|font-shape|italic|What about teach a C.
@@ -55,45 +53,96 @@
   dynamics process during <with|font-shape|italic|C. elegans> is trained. We
   choose a group neuron called AWA, other group of neuron called XXX, which .
   The fluorscence protein mCherry and GFP , GEM-GECO is transfered to wt
-  <with|font-shape|italic|C. elegans>.\ 
+  <with|font-shape|italic|C. elegans>. Here I wonder whether is different
+  after tran. I it is difference, how it change during the process of
+  training.
 
-  \ \ 
+  \ \ My hpothesis is that the neuron acitvity between AWA and alcohol sense
+  neurons will modified by synapse during training. In our experiment, we
+  will see the fluorescence change of neurons between AWA and alcohol
+  neurons, (<with|font-shape|italic|What is the function of CoChR and
+  Chrismon? How I use CoChR and Chrismon?>)
 
-  \ Many year ago, Cricks say that . How the decode the dnamics of neurons
-  activity.How (What is the questions) (How the neuron encode the memory? How
-  the neuron 'action' the memeory? How the neoron modify the memory?) (What
-  is the mean of our project? )
+  To prove the neurons activity has changed, we do it step by step. Firstly,
+  we proved that transgene <with|font-shape|italic|C. elegans> function as
+  wild type <with|font-shape|italic|C. elegans>. In other word, when we use
+  light on the transgene <with|font-shape|italic|C. elegans>, which perform
+  similary to the response with dictycle.
 
-  We use the model aninmal <with|font-shape|italic|C. elegans> to help us to
-  find the possible answer.\ 
+  Secondly, we will test whether Ca indicator R-GECO work. And observe
+  whether R-GECO and CoChR work together.\ 
 
-  Hypothesis: \ (The dnamics is based on single neurons? )\ 
+  Then, we start the train experiment. We will observe the population behavor
+  and neurons acivities.\ 
 
-  Specific aim: GEM-GECO light on?
+  Based on the experiment results, we will get the conclusion. If If we
+  succeful to oberse the temporal-spactional pattern, we may in get the idea
+  how the neurons form memory and how the train modify the neuron network.
 
-  Order to proof:\ 
+  \ (What is the mean of our project? )(<with|font-shape|italic|If we just
+  want C. elegans walk as we want? Why we don't control the motor neuron
+  dircetly? What is the mean that we control the olfacotry neuron?
+  >)(<with|font-shape|italic|How we teach a C. elegans a new
+  skill?>)(<with|font-shape|italic|Just like a toy?>)
 
-  The impact: (What we can do for world and human being?)
+  <section*|Background>
+
+  \ Brian is complex structure, and has complex functions. One of the most
+  intriguing of the brain's complex functions is the ability to store
+  information provided by experience and to retrieve much of it, either
+  consciously or unconsciously.Without this ability, many of the congnitive
+  functinos caould not occur. <with|font-shape|italic|Learning> is the name
+  given to the process by which new information is acquired by the nervous
+  system and is observable through changes in behavior.
+  <with|font-shape|italic|Memory> refers to the encoding, storage, and
+  retrieval of learned information.(ref .1 textbook). Here is a well-known
+  operant conditioning experiments called Skinner box. \ Skinner Box,
+  invented by Burrhus Frederic Skinner, is a laboratory apparatus used to
+  study animal behaviors. Inside this box, when the mouse(or other subject
+  animal) peroform correct response to specific stimuli, such as light or
+  sound signal, this box delivers food or other reward. Skinner box allow
+  experimoters to perform stduies in tranning through reward. However, here
+  is a black box between stimuli and behavior, and also the neurons network
+  of mouse brain or human brain is too complex and difficult to perform
+  experiment. So we want to perform skinner box-like experiment on
+  <with|font-shape|italic|C. elegans> to study the neuron network dynamics
+  pattern during trainning.
+
+  <with|font-shape|italic|Caenorhabditis elegans,> a classical model
+  organism, is widely used in scientific researchs.
+  <with|font-shape|italic|C. elegans> is a free living,transparent nematode,
+  about 1mm in length. At 20<degreesign>C, the laboratory strain of
+  <with|font-shape|italic|C. elegans> has an average lifespan around 2-3
+  weeks and a generation time of 3 to 4 days. When Sydeney Brenner first time
+  proposed using <with|font-shape|italic|C. elegans> as a model organism, he
+  wanted to investigate neural development in animal promarily. For us, here
+  are three key points that we choose <with|font-shape|italic|C. elegans> as
+  the subject animal.\ 
+
+  Firstly, <with|font-shape|italic|C. elegans> is one of two organism whose
+  connnectome is found completed. Based on the physical connect between
+  neurons, we can easy and reasonable to choose target neuron for study the
+  neuron network. Secondly, <with|font-shape|italic|C. elelgans> only has 302
+  neurons in hermaphrodite. It is suitable and friendly to do genetic
+  expeiment and analysis. Last point is transparent body of
+  <with|font-shape|italic|C. elegans>, which mean that light can throught
+  cell body to neuron and neuron out to cell body. Using fluorescent protien
+  and lighat-activeted ion channel, we can preciesly control neuroons and
+  quanlity measure the neurons activity.
 
   \;
 
-  Brief introduction of background to bring up the questions
-
-  you'd like to study, why it is important,
-
-  State your hypothesis, the specific aims you will work on in
-
-  order to proof your hypothesis.
-
-  The impact of your research
-
-  <section*|Background>
+  The nature and dynamics of neocortical and subcortical memory engram cells
+  and their ciruits for systems consolidation of memory.\ 
 
   (<with|font-shape|italic|Which lab do the same thing all over the
   world?>)(<with|font-shape|italic|How is the newest devlopment of this?>)
   (<with|font-shape|italic|What is largest challge problem in technology or
   others way?>)(<with|font-shape|italic|How other people in the past and now
-  try to solve the problem?>)
+  try to solve the problem?>)(<with|font-shape|italic|But how the memory for
+  human and C. elegans is different. How use the C. elegans to representate
+  human mind?>)(<with|font-shape|italic|What is the advatage of our
+  try>)(<with|font-shape|italic|Why it must be import, why not intersting?>)
 
   Overview of the literature closely related to the subject, shown that you
   are an expert and have done your homework.
@@ -117,6 +166,8 @@
   results, the method to analysis the data, and possible interpretations.
 
   <section*|References>
+
+  \;
 </body>
 
 <\initial>
@@ -132,9 +183,9 @@
   <\collection>
     <associate|auto-1|<tuple|?|1>>
     <associate|auto-2|<tuple|?|1>>
-    <associate|auto-3|<tuple|?|2>>
-    <associate|auto-4|<tuple|?|2>>
-    <associate|auto-5|<tuple|?|3>>
+    <associate|auto-3|<tuple|?|3>>
+    <associate|auto-4|<tuple|?|3>>
+    <associate|auto-5|<tuple|?|4>>
   </collection>
 </references>
 
